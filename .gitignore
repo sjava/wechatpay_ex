@@ -24,3 +24,7 @@ wechatpay_ex-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/.elixir_ls/
+
+clean.sh
