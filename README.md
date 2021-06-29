@@ -5,7 +5,7 @@
 ## Installation
 
 暂无，想用的把代码拷贝过去就行，就一个ex文件
-
+目前我用的是一个GenServer实现，把Config都存在state里面，也可以考虑改写成一个巨大的macro，全凭喜好
 
 ## Usage
 
